@@ -1,0 +1,452 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.scotch-whisky h4 {
+    font-family: Red Rose;
+    font-size: 15.5px;
+    font-weight: 400;
+    line-height: 17.05px;
+    letter-spacing: 0.15em;
+    text-align: center;
+    background-color: #FEF8E8;
+    text-transform: uppercase;
+    color: #B74931;
+    box-shadow: 0px 2px 4px 0px #0000001F;
+    padding: 33.98px;
+}
+
+.scotch-whisky .scotch-whisky-info {
+    padding: 120px 0px;
+}
+
+.scotch-whisky .scotch-whisky-info h5 {
+    color: #814D21;
+    font-family: Red Rose;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 17.6px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.scotch-whisky .scotch-whisky-info h2 {
+    font-family: Red Rose;
+    font-size: 53px;
+    font-weight: 700;
+    line-height: 51.41px;
+    text-align: center;
+    color: #B77931;
+    text-transform: uppercase;
+    margin: 11px 0px 18px 0px;
+}
+
+.scotch-whisky .scotch-whisky-info h3 {
+    margin: 0px;
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 27.16px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #8B8C8F;
+    text-transform: uppercase;
+    margin-bottom: 55px;
+}
+
+.scotch-whisky .scotch-whisky-info h3 span {
+    margin: 0px;
+    font-family: Raleway;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 27.16px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    margin-bottom: 55px;
+}
+
+.scotch-whisky .scotch-whisky-info p {
+    font-family: Raleway;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 32.3px;
+    width: 100%;
+    max-width: 963px;
+    text-align: center;
+    color: #585A5D;
+    margin: auto;
+}
+
+
+.scotch-whisky .miltonduff-distillery-info {
+    padding: 80px 0px 120px 0px;
+}
+
+.scotch-whisky .miltonduff-distillery-info h5 {
+    margin: 0px;
+    font-family: Red Rose;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 17.6px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    color: #814D21;
+    text-transform: uppercase;
+}
+
+.scotch-whisky .miltonduff-distillery-info h2 {
+    font-family: Red Rose;
+    font-size: 53px;
+    font-weight: 700;
+    line-height: 51.41px;
+    text-align: center;
+    text-align: center;
+    color: #B77931;
+    text-transform: uppercase;
+    margin: 8px auto;
+}
+
+.scotch-whisky .miltonduff-distillery-info h3 {
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 27.16px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #8B8C8F;
+    text-transform: uppercase;
+    margin: 0px;
+    margin-bottom: 32px;
+}
+
+.scotch-whisky .miltonduff-distillery-info p {
+    font-family: Raleway;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 32.3px;
+    text-align: center;
+    color: #585A5D;
+    width: 100%;
+    max-width: 871px;
+    margin: auto;
+    margin-bottom: 12px;
+}
+
+.scotch-whisky .miltonduff-distillery-info .miltonduff-distillery-description p {
+    margin: 0px auto;
+}
+
+.scotch-whisky .miltonduff-distillery-info .miltonduff-distillery-description .first-p {
+    margin-bottom: 32px;
+}
+
+.scotch-whisky .miltonduff-distillery-info .miltonduff-distillery-description .second-p {
+    margin-bottom: 32px;
+}
+
+.rarest-miltonduff h4 {
+    font-family: Red Rose;
+    font-size: 15.5px;
+    font-weight: 400;
+    line-height: 17.05px;
+    letter-spacing: 0.15em;
+    text-align: center;
+    background-color: #FEF8E8;
+    text-transform: uppercase;
+    color: #1D1D1B;
+    padding: 33.98px;
+}
+
+.rarest-miltonduff .rarest-miltonduff-info {
+    padding: 106px 0px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.rarest-miltonduff .rarest-miltonduff-info .rarest-miltonduff-description {
+    width: 48%;
+}
+
+.rarest-miltonduff .rarest-miltonduff-info .rarest-miltonduff-description h5 {
+    font-family: Red Rose;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 17.6px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #B77931;
+    text-transform: uppercase;
+}
+
+.rarest-miltonduff .rarest-miltonduff-info .rarest-miltonduff-description h2 {
+    font-family: Red Rose;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 63.7px;
+    text-align: left;
+    width: 100%;
+    max-width: 479px;
+    color: #B74931;
+    margin: 7px 0px 40px 0px;
+    text-transform: uppercase;
+}
+
+.rarest-miltonduff .rarest-miltonduff-info .rarest-miltonduff-description p {
+    font-family: Raleway;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 28.69px;
+    text-align: left;
+    color: #585A5D;
+    width: 100%;
+    max-width: 525px;
+    margin-bottom: 40px;
+}
+
+.rarest-miltonduff .rarest-miltonduff-info .rarest-miltonduff-description .miltonduff-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rarest-miltonduff .rarest-miltonduff-info .rarest-miltonduff-description .miltonduff-info .right_border {
+    border-right: 0.8px solid #B74931;
+    padding: 0px 24px;
+}
+
+.rarest-miltonduff .rarest-miltonduff-info .rarest-miltonduff-description .miltonduff-info .info h4 {
+    font-family: Times New Roman;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 26.4px;
+    text-align: center;
+    padding: 0px;
+    color: #B74931;
+    background-color: #fff;
+    margin: 0px;
+    margin-bottom: 3px;
+}
+
+
+.rarest-miltonduff .rarest-miltonduff-info .rarest-miltonduff-description .miltonduff-info .space {
+    padding: 0px;
+    background-color: #fff;
+    padding-right: 24px;
+}
+
+.rarest-miltonduff .rarest-miltonduff-info .rarest-miltonduff-description .miltonduff-info .last-div {
+    padding: 0px;
+    margin: 0px 24px;
+    background-color: #fff;
+}
+
+.rarest-miltonduff .rarest-miltonduff-info .rarest-miltonduff-description .miltonduff-info .info h5 {
+    font-family: Rambla;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 14.3px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    color: #5C5952;
+}
+
+.rarest-miltonduff .rarest-miltonduff-info .rarest-miltonduff-description button {
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #E2E7EF;
+    background-color: #262831;
+    padding: 9px 70px;
+    border-radius: 20px;
+    opacity: 0px;
+    margin-top: 40px;
+    box-shadow: 0px 1px 2px 0px #0000000D;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.rarest-miltonduff .rarest-miltonduff-info .rarest-miltonduff-img {
+    width: 43%;
+    position: relative;
+}
+
+.rarest-miltonduff .rarest-miltonduff-info .rarest-miltonduff-img .image {
+    position: absolute;
+    right: 120px;
+    top: 83px;
+}
+
+.slider {
+    background-image: url(image/Firefly\ 20240625005224\ 2.png);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+
+.tasting-notes {
+    padding-top: 104px;
+    padding-bottom: 50px;
+    position: relative;
+    background-image: url(image/Background_map.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-position: right 120px top 30px;
+}
+
+
+.tasting-notes h6 {
+    font-family: Red Rose;
+    font-size: 98px;
+    font-weight: 700;
+    line-height: 80.36px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #B74931;
+    padding-left: 109px;
+    padding-bottom: 66px;
+}
+
+
+.tasting-notes .tasting-notes-info .notes {
+    background: linear-gradient(90deg, #FEF8E8 0%, rgba(254, 248, 232, 0) 100%);
+    margin: 0px 55px 20px 109px;
+    display: flex;
+    align-items: center;
+    gap: 35px;
+    padding: 40px;
+}
+
+.tasting-notes .tasting-notes-info .lasst-notes {
+    margin: 0px 55px 0px 109px;
+}
+
+.tasting-notes .tasting-notes-info .notes h5 {
+    font-family: Red Rose;
+    font-size: 29px;
+    font-weight: 400;
+    line-height: 28.13px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #16171E;
+    max-width: 98px;
+    text-transform: capitalize;
+    padding-right: 86px;
+}
+
+.tasting-notes .tasting-notes-info .notes p {
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24.16px;
+    text-align: left;
+    color: #585A5D;
+    width: 100%;
+    max-width: 371px;
+}
+
+.tasting-notes .tasting-notes-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 65px;
+    right: 50px;
+    height: 100%;
+    width: 50%;
+}
+
+.whisky-order {
+    background: linear-gradient(187.25deg, #DABFA6 19.66%, #FAECDA 99.2%);
+    text-align: center;
+    padding-bottom: 70px;
+}
+
+.whisky-order .whisky-year-info {
+    background-image: url(image/backround_no_200.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 196px 0px;
+}
+
+.whisky-order .whisky-year-info h5 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Red Rose;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 17.6px;
+    letter-spacing: 0.05em;
+    color: #B74931;
+}
+
+.whisky-order .whisky-year-info h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Red Hat Display;
+    font-size: 70px;
+    font-weight: 900;
+    line-height: 77px;
+    color: #fff;
+}
+
+.whisky-order button {
+    color: #284167;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    padding: 13px 64px;
+    border-radius: 22px;
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #16171E;
+}
+
+.footer .footer-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 60px 0px;
+}
+
+.footer .footer-menu .footer-info p {
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #fff;
+    width: 100%;
+    max-width: 206px;
+}
+
+.footer .footer-menu .footer-links h5 {
+    color: #fff;
+}
+.footer .footer-menu .footer-links h6 {
+    color: #fff;
+}
+
+.footer .footer-menu .Other-Products h5 {
+    color: #fff;
+}
+.footer .footer-menu .Other-Products h6 {
+    color: #fff;
+}
+
+.footer .footer-menu .social-media h5 {
+    color: #fff;
+}
